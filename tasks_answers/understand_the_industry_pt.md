@@ -2,6 +2,11 @@
 
 ## 1. Explique o fluxo de dinheiro, o fluxo de informações e o papel dos principais agentes no setor de pagamentos.
 
+<h1 align="center">
+    <img alt="fluxograma" src="../images/fluxo.png" width="100%" />
+    <br>
+</h1>
+
 **Portador**: É o cliente que realiza a transação de compra utilizando o cartão como forma de pagamento no ponto de venda (POS - Point of Sale) do prestador de serviço. Ele é responsável por pagar o valor total da venda, incluindo as taxas de intermediação, a menos que o empreendedor absorva esses custos;
 
 **Lojista**: É o empreendedor que oferece produtos ou serviços utilizando sistema de pagamento eletrônico para receber o valor da venda realizada pelor portador do cartão;
