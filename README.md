@@ -8,4 +8,4 @@ Este case é destinado a pessoas que se candidataram ao cargo de Analista de Ris
 As respostas das tasks 2.1 e 2.2 se encontram na pasta `tasks_answers`.
 
 ## Análise de dados
-O desenvolvimento da análise pode ser encontrada na pasta `risk_test`, onde irá conter o arquivo `business_rules_cloudwalk.ipynb`.
+O desenvolvimento da análise pode ser encontrada na pasta `risk_test`, onde irá conter os arquivos `analyze_the_data.md` (3.2) e `business_rules_cloudwalk.ipynb` (3.3).
